@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Mojeprojekty\programy\graRPG3\head.h(190,15): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Mojeprojekty\programy\graRPG3\main.cpp(7,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  graRPG3.vcxproj -> D:\Mojeprojekty\programy\graRPG3\Debug\graRPG3.exe
