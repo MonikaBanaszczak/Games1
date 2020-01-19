@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Mojeprojekty\programy\Snake\main.cpp(20,14): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,26): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,36): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,46): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,56): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,66): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,84): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(20,99): warning C4309: "inicjowanie": obcięcie stałej wartości
+D:\Mojeprojekty\programy\Snake\main.cpp(116,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Mojeprojekty\programy\Snake\main.cpp(49): warning C4715: "choose_size”: niewszystkie ścieżki kodu zwracają wartość
+  Snake.vcxproj -> D:\Mojeprojekty\programy\Snake\Debug\Snake.exe
